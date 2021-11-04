@@ -1,0 +1,115 @@
+body {
+  background-color: #561050;
+  line-height: 2;
+}
+
+.parent {
+  font-size: 1.5rem;
+  background-color: #913175;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding: 100px;
+}
+
+.content {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+margin-bottom: 0;
+}
+
+.music {
+  width: 100%;
+  height: 250px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.description {
+  width: 70%;
+  margin: auto;
+  padding-bottom: 30px;
+  line-height: 1.5;
+
+}
+
+h2 {
+  font-size: 0.75rem;
+  font-family: helvetica neue,sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+}
+.payment{
+  background-color: #F0E4D7;
+width: 80%;
+margin: 25px auto;
+padding:5px;
+border-radius: 10px;
+position: relative;
+
+}
+.paymentpic{
+  width: 10%;
+  border-radius: 20px;
+  position: absolute;
+  left:20px;
+  top:25px;
+
+}
+.plans{
+width: 50%;
+  margin-left:25px;
+
+
+}
+.subscription{
+width: 50%;
+  margin-left:25px;
+}
+.change{
+width: 40%;
+font-size: 0.8rem;
+  position: absolute;
+  right:1px;
+  top:30px;
+}
+.btn{
+  background: #354880;
+    
+  background-image: -webkit-linear-gradient(top, #354880, #469fd6);
+  background-image: -moz-linear-gradient(top, #354880, #469fd6);
+  background-image: -ms-linear-gradient(top, #354880, #469fd6);
+  background-image: -o-linear-gradient(top, #354880, #469fd6);
+  background-image: linear-gradient(to bottom, #354880, #469fd6);
+
+  border-radius: 8px;
+  font-family: helvetica neue,sans-serif;
+  color: #ffffff;
+  font-size: 0.75rem;
+
+  padding: 10px 85px;
+  text-decoration: none;
+  line-height: 2;
+}
+
+.btn:hover {
+  background: #1ed9fa;
+  background-image: -webkit-linear-gradient(top, #1ed9fa, #477b9e);
+  background-image: -moz-linear-gradient(top, #1ed9fa, #477b9e);
+  background-image: -ms-linear-gradient(top, #1ed9fa, #477b9e);
+  background-image: -o-linear-gradient(top, #1ed9fa, #477b9e);
+  background-image: linear-gradient(to bottom, #1ed9fa, #477b9e);
+  text-decoration: none;
+}
+
+.cancellation{
+
+  font-size: 1rem;
+  padding: 25px;
+  text-decoration: none;
+}
